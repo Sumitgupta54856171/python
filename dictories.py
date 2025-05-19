@@ -84,5 +84,4 @@ def switch_work(w):
             print("Stareday")
         case 7:
             print("Sunday")
-
 switch_work(3)
